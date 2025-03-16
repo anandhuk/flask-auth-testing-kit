@@ -1,0 +1,8 @@
+flask
+flask-jwt-extended
+flask-sqlalchemy
+flask-migrate
+flask-bcrypt
+python-dotenv
+psycopg2-binary  # For PostgreSQL
+PyJWT
